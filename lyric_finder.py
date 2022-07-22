@@ -24,6 +24,8 @@ def search_lyrics(artist_name, song_title):
 #Call search_lyrics function
 search_lyrics(artist_name, song_title)
 
+#Would like to add functions to write to a file...soon
+
 
 #End Program
 print("Lyrics Found!")
